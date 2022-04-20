@@ -1,4 +1,5 @@
-# TODO: Write documentation for `Interview`
+require "./interview/**"
+
 module Interview
   VERSION = "0.1.0"
 
