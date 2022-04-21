@@ -4,6 +4,10 @@ version: 0.1.0
 authors:
   - grepsedawk <grepsedawk@users.noreply.github.com>
 
+targets:
+  robot:
+    main: src/robot.cr
+
 crystal: 1.4.0
 
 license: MIT
